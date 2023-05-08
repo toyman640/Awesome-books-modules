@@ -12,6 +12,10 @@ body {
   margin-left: 3%;
 }
 
+.main-div {
+  margin-top: 70px;
+}
+
 .main-nav-section {
   display: flex;
   justify-content: space-between;
@@ -61,4 +65,8 @@ input {
 
 .hide {
   display: none;
+}
+
+.date {
+  text-align: right;
 }
